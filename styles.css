@@ -1,3 +1,26 @@
 ol {
   color: blue;
 }
+
+h1 {
+  color: teal;
+  align-content: center;
+}
+
+#link {
+  color: green;
+}
+
+div {
+  color: black;
+}
+
+p {
+  color: orange;
+}
+
+#shark {
+  body {
+  background: url("http://wallpapercave.com/wp/hL3Io1m.jpg") no-repeat fixed center;
+  }
+}
