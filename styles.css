@@ -20,7 +20,26 @@ p {
 }
 
 #shark {
-  body {
   background: url("http://wallpapercave.com/wp/hL3Io1m.jpg") no-repeat fixed center;
-  }
+}
+
+table{
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 50%;
+
+}
+
+th ,td {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
+
+.links {
+  color: red;
+}
+
+.links.p {
+  color: green;
 }
