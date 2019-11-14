@@ -19,10 +19,6 @@ p {
   color: orange;
 }
 
-#shark {
-  background: url("http://wallpapercave.com/wp/hL3Io1m.jpg") no-repeat fixed center;
-}
-
 table{
   border: 2px solid black;
   border-collapse: collapse;
@@ -38,4 +34,8 @@ th ,tr {
 
 .links {
   color: red;
+}
+
+#shark {
+  background: url("http://wallpapercave.com/wp/hL3Io1m.jpg") no-repeat fixed center;
 }
